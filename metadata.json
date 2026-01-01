@@ -1,0 +1,7 @@
+{
+  "name": "SpendWise AI",
+  "description": "A smart monthly expense tracker featuring AI-powered receipt scanning, spending analysis, and personalized financial coaching using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
